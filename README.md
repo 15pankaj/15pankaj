@@ -47,4 +47,4 @@ I work at the intersection of **Machine Learning, Deep Learning, and Backend Sof
 ---
 
 📫 **Let’s Connect**
-- LinkedIn: *(add your LinkedIn link)*
+- LinkedIn: (https://www.linkedin.com/in/pankajkumar2002/)
