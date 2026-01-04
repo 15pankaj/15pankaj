@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Pankaj Kumar Shaw
 
 🎓 M.Tech in Information Technology from NITK Surathkal  
-💼 Software Engineer at Sierra Learning Academy  
+💼 Technical Consultant- Software Development at Sierra Learning Academy  
 📄 Research Author @ Springer LNDS (WREC’25)
 
 I work at the intersection of **Machine Learning, Deep Learning, and Backend Software Engineering**, building scalable ML-powered systems and real-world applications.
